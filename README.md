@@ -236,7 +236,7 @@ Given the rapid pace of research in LLM-driven kernel generation, we may have in
 If you find this project useful, please cite:
 
 ```bibtex
-@misc{baai2026AI4kernel,
+@misc{flagos2026AI4kernel,
       title={Towards Automated Kernel Generation in the Era of LLMs: A Surveye, 
       author={Yang Yu, Peiyu Zang, Chi Hsu Tsai, Haiming Wu, Yixin Shen, Jialing Zhang, Haoyu Wang, Jingze Shi, Yuyu Luo, Wentao Zhang, Chunlei Men and Guang Liu},
       year={2026},
