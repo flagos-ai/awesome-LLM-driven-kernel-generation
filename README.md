@@ -32,6 +32,8 @@ The integration of Large Language Models (LLMs) and agentic systems marks a pivo
 
 </center>
 
+Applying LLMs to kernel synthesis presents universal challenges in correctness and performance-sensitive structuring across diverse programming abstractions. Addressing these complexities, this section reviews the two principal post-training methodologies that dominate current research: supervised fine-tuning and reinforcement learning. 
+
 ## SFT
 
 \[10/2025] ConCuR: Conciseness Makes State-of-the-Art Kernel Generation [\[paper\]](https://arxiv.org/abs/2510.07356)
@@ -60,6 +62,8 @@ The integration of Large Language Models (LLMs) and agentic systems marks a pivo
 
 </center>
 
+While foundational LLMs are often limited to static, one-pass inference, agentic systems introduce an autonomous, closed-loop paradigm characterized by iterative planning, tool use, and feedback-driven refinement. This shift enables scalable, long-horizon optimization beyond the reach of manual or single-pass methods. To systematically evaluate this landscape, we categorize agent-driven advancements into four structural dimensions: learning mechanisms, external memory management, hardware profiling integration, and multi-agent orchestration.
+
 ## **Learning Mechanisms**
 
 \[02/2025] Automating GPU Kernel Generation with Deepseek-r1 and Inference Time Scaling [\[blog\]](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/)
@@ -82,7 +86,7 @@ The integration of Large Language Models (LLMs) and agentic systems marks a pivo
 
 \[12/2025] KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta [\[paper\]](https://arxiv.org/abs/2512.23236) 
 
-## **Hardware-Awareness through Profiling**
+## **Hardware Profiling Integration**
 
 \[06/2025] CUDA-LLM: LLMs Can Write Efficient CUDA Kernels [\[paper\] ](https://arxiv.org/abs/2506.09092)
 
@@ -107,7 +111,7 @@ The integration of Large Language Models (LLMs) and agentic systems marks a pivo
 
 
 # Datasets
-The dates listed in the table correspond to the initial release of each github repository. It is important to note that these libraries are under active development, with continuous updates and optimizations following their inception.
+High-quality data in this domain is defined not merely by volume, but by its ability to bridge the semantic gap between high-level algorithms and low-level hardware optimizations. In this section, we survey the data landscape and organize resources. The dates listed in the table correspond to the initial release of each github repository. It is important to note that these libraries are under active development, with continuous updates and optimizations following their inception.
 
 ## Structured Datasets 
 
@@ -204,6 +208,7 @@ The dates listed in the table correspond to the initial release of each github r
 
 
 # Benchmarks
+This section surveys the landscape of kernel generation benchmarking, providing a structured analysis of key evaluation frameworks.
 
 \[01/2024] Can Large Language Models Write Parallel Code? [\[paper\]](https://arxiv.org/abs/2401.12554) | [\[code\]](https://github.com/parallelcodefoundry/ParEval)
 
