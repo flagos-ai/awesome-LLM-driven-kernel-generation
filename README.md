@@ -239,7 +239,7 @@ If you find this project useful, please cite:
 ```bibtex
 @misc{flagos2026AI4kernel,
       title={Towards Automated Kernel Generation in the Era of LLMs: A Surveye, 
-      author={Yang Yu, Peiyu Zang, Chi Hsu Tsai, Haiming Wu, Yixin Shen, Jialing Zhang, Haoyu Wang, Jingze Shi, Yuyu Luo, Wentao Zhang, Chunlei Men and Guang Liu},
+      author={Yang Yu, Peiyu Zang, Chi Hsu Tsai, Haiming Wu, Yixin Shen, Jialing Zhang, Haoyu Wang, Zhiyou Xiao, Jingze Shi, Yuyu Luo, Wentao Zhang, Chunlei Men, Guang Liu and Yonghua Lin},
       year={2026},
       url={[https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation.git)}
 }
