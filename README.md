@@ -4,7 +4,7 @@
 <h1 align="center"> :cherries:  Awesome LLM-Driven Kernel Generation  </h1>
 
 
-<h2 align="center">🔥 <a href="./survey/AI4Kernel_survey.pdf">Paper</a> 🔥</h2>
+<h2 align="center">🔥 <a href="https://www.techrxiv.org/users/1015665/articles/1376703-towards-automated-kernel-generation-in-the-era-of-llms-a-survey">Paper</a> 🔥</h2>
 
 
 ![Framework](./img/1_img.png)
@@ -237,10 +237,11 @@ Given the rapid pace of research in LLM-driven kernel generation, we may have in
 If you find this project useful, please cite:
 
 ```bibtex
-@misc{flagos2026AI4kernel,
-      title={Towards Automated Kernel Generation in the Era of LLMs: A Survey}, 
-      author={Yang Yu, Peiyu Zang, Chi Hsu Tsai, Haiming Wu, Yixin Shen, Jialing Zhang, Haoyu Wang, Zhiyou Xiao, Jingze Shi, Yuyu Luo, Wentao Zhang, Chunlei Men, Guang Liu and Yonghua Lin},
-      year={2026},
-      url={[https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation.git)}
+@article{yu2026towards,
+  title={TOWARDS AUTOMATED KERNEL GENERATION IN THE ERA OF LLMS: A SURVEY},
+  author={Yu, Yang and Zang, Peiyu and Tsai, Chi Hsu and Wu, Haiming and Shen, Yixin and Zhang, Jialing and Wang, Haoyu and Xiao, Zhiyou and Shi, Jingze and Luo, Yuyu and others},
+  journal={Authorea Preprints},
+  year={2026},
+  publisher={Authorea}
 }
 
