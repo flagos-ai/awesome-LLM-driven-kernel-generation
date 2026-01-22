@@ -267,7 +267,7 @@ If you find this project useful, please cite:
 ```bibtex
 @article{flagos2026ai4kernel,
   title={Awesome LLM-Driven Kernel Generation},
-  author={Yu, Yang and Zang, Peiyu and Tsai, Chi Hsu and Wu, Haiming and Shen, Yixin and Zhang, Jialing and Wang, Haoyu and Xiao, Zhiyou and Shi, Jingze and Luo, Yuyu and others},
+  author={Yu, Yang and Zang, Peiyu and Tsai, Chi Hsu and Wu, Haiming and Shen, Yixin and Zhang, Jialing and Wang, Haoyu and Xiao, Zhiyou and Shi, Jingze and Luo, Yuyu and Zhang, Wentao and Men, Chunlei and Liu, Guang and Lin, Yonghua},
   year={2026},
   publisher={Github},
   url={https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation}
