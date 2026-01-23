@@ -3,6 +3,7 @@
 
 <h1 align="center"> :cherries:  Awesome LLM-Driven Kernel Generation  </h1>
 
+<h2 align="center">🔥 <a href="https://arxiv.org/abs/2601.15727">Paper</a> 🔥</h2>
 
 ![Framework](./img/1_img.png)
 
