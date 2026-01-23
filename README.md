@@ -262,13 +262,15 @@ Given the rapid pace of research in LLM-driven kernel generation, we may have in
 
 # Citation
 
-If you find this project useful, please cite:
+An early  long preprint of this work was released on TechRxiv, which reflects an initial and exploratory stage of the survey. The current arXiv manuscript is a substantially improved and condensed revision, incorporating many additional recent works and a more focused and carefully refined presentation. If you find this work useful, please feel free to cite it as:
 
 ```bibtex
-@article{flagos2026ai4kernel,
-  title={Awesome LLM-Driven Kernel Generation},
-  author={Yu, Yang and Zang, Peiyu and Tsai, Chi Hsu and Wu, Haiming and Shen, Yixin and Zhang, Jialing and Wang, Haoyu and Xiao, Zhiyou and Shi, Jingze and Luo, Yuyu and Zhang, Wentao and Men, Chunlei and Liu, Guang and Lin, Yonghua},
-  year={2026},
-  publisher={Github},
-  url={https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation}
+@misc{yu2026automatedkernelgenerationera,
+      title={Towards Automated Kernel Generation in the Era of LLMs}, 
+      author={Yang Yu and Peiyu Zang and Chi Hsu Tsai and Haiming Wu and Yixin Shen and Jialing Zhang and Haoyu Wang and Zhiyou Xiao and Jingze Shi and Yuyu Luo and Wentao Zhang and Chunlei Men and Guang Liu and Yonghua Lin},
+      year={2026},
+      eprint={2601.15727},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.15727}, 
 }
