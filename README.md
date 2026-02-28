@@ -55,6 +55,11 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 
 \[01/2026] AscendKernelGen: A Systematic Study of LLM-Based Kernel Generation for Neural Processing Units [\[paper\]](https://arxiv.org/abs/2601.07160)
 
+\[02/2026] Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations [\[paper\]](https://arxiv.org/pdf/2602.05885) | [\[code\]](https://github.com/hkust-nlp/KernelGYM) 
+
+\[02/2026] Improving HPC Code Generation Capability of LLMs via Online Reinforcement Learning with Real-Machine Benchmark Rewards [\[paper\]](https://arxiv.org/pdf/2602.12049)
+
+
 # Agent4Kernel
 
 <center>
@@ -80,6 +85,12 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 \[10/2025] KernelGen [\[link\]](https://kernelgen.flagos.io/login)
 
 \[01/2026] MaxCode: A Max-Reward Reinforcement Learning Framework for Automated Code Optimization [\[paper\]](https://arxiv.org/abs/2601.05475)
+
+\[01/2026] AscendCraft: Automatic Ascend NPU Kernel Generation via DSL-Guided Transcompilation [\[paper\]](https://arxiv.org/pdf/2601.22760)
+
+\[02/2026] K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model [\[paper\]](https://arxiv.org/pdf/2602.19128) | [\[code\]](https://github.com/caoshiyi/K-Search) 
+
+\[11/2025] AUTOCOMP: A POWERFUL AND PORTABLE CODE OPTIMIZER FOR TENSOR ACCELERATORS [\[paper\]](https://arxiv.org/pdf/2505.18574)
 
 \[09/2025] Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization [\[paper\]](https://arxiv.org/abs/2509.14279) | [\[code\]](https://github.com/SakanaAI/robust-kbench)
 
@@ -133,6 +144,8 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 \[09/2025] Astra: A Multi-Agent System for GPU Kernel Performance Optimization [\[paper\]](https://arxiv.org/abs/2509.07506)
 
 \[07/2025] Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks [\[blog\]](https://rocm.blogs.amd.com/software-tools-optimization/triton-kernel-ai/README.html) | \[[paper\] ](https://arxiv.org/pdf/2507.23194)| [\[code\]](https://github.com/AMD-AGI/GEAK-agent) 
+
+\[01/2026] A Two-Stage GPU Kernel Tuner Combining Semantic Refactoring and Search-Based Optimization [\[paper\]](https://arxiv.org/pdf/2601.12698)
 
 
 # Datasets
