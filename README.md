@@ -100,6 +100,8 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[06/2025] GPU Kernel Scientist: An LLM-Driven Framework for Iterative Kernel Optimization [\[paper\]](https://arxiv.org/html/2506.20807v2)
 
+\[06/2025] **IntelliPerf**: Profiling-guided LLM framework for iterative GPU kernel optimization on AMD GPUs [\[blog\]](https://github.com/AMDResearch/intelliperf/blob/main/docs/IntelliPerf.md) | [\[code\]](https://github.com/AMDResearch/intelliperf)
+
 \[12/2025] cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution [\[paper\]](https://arxiv.org/pdf/2512.16465)
 
 ## **External Memory Management**
@@ -111,6 +113,8 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 \[10/2025] From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph [\[paper\] ](https://arxiv.org/pdf/2510.19873)
 
 ## **Hardware Profiling Integration**
+\[03/2025] **IntelliKit**: LLM-ready profiling and analysis toolkit for AMD GPUs [\[code\]](https://github.com/AMDResearch/intellikit)
+
 \[05/2025] QiMeng-TensorOp: Automatically Generating High-Performance Tensor Operators with Hardware Primitives [\[paper\]](https://arxiv.org/abs/2505.06302)
 
 \[04/2025] QiMeng-GEMM: Automatically Generating High-Performance Matrix Multiplication Code by Exploiting Large Language Models [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/34461)
@@ -183,6 +187,8 @@ High-quality data in this domain is defined not merely by volume, but by its abi
 
 \[09/2024] **Gemlite** — Triton Kernels for Efficient Low-Bit Matrix Multiplication [\[code\]](https://github.com/dropbox/gemlite)
 
+\[11/2024] **AITER** — AMD operator and kernel library for high-performance AI workloads [\[code\]](https://github.com/ROCm/aiter)
+
 \[01/2025] **FlashInfer** — Kernel Library for LLM Serving [\[code\]](https://github.com/flashinfer-ai/flashinfer)
 
 \[05/2021] **FBGEMM** — Low-precision High-performance Matrix Multiplication [\[code\]](https://github.com/pytorch/FBGEMM)  
@@ -198,6 +204,8 @@ High-quality data in this domain is defined not merely by volume, but by its abi
 \[12/2023] **SGLang** — Structured Generation Language for LLMs [\[code\]](https://github.com/sgl-project/sglang)
 
 \[03/2023] **llama.cpp** — C/C++ Inference Port of LLaMA Models [\[code\]](https://github.com/ggerganov/llama.cpp)  
+
+\[03/2025] **IntelliKit** — LLM-ready profiling and analysis toolkit for AMD GPUs [\[code\]](https://github.com/AMDResearch/intellikit)
 
 \[08/2023] **TensorRT-LLM** — TensorRT for LLM Inference [\[code\]](https://github.com/NVIDIA/TensorRT-LLM)
 
