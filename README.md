@@ -37,6 +37,8 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 
 \[06/2025] KernelLLM: Making Kernel Development More Accessible [\[link\]](https://huggingface.co/facebook/KernelLLM)
 
+\[03/2026] ConCuR: Conciseness Makes State-of-the-Art Kernel Generation [\[paper\]](https://arxiv.org/pdf/2603.16790) | [\[code\]](https://github.com/CSJianYang/Industrial-Coder) 
+
 ## RL
 
 \[09/2025] Mastering Sparse CUDA Generation through Pretrained Models and Deep Reinforcement Learning [\[paper\]](https://openreview.net/forum?id=VdLEaGPYWT)
@@ -59,6 +61,9 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 
 \[02/2026] Improving HPC Code Generation Capability of LLMs via Online Reinforcement Learning with Real-Machine Benchmark Rewards [\[paper\]](https://arxiv.org/pdf/2602.12049)
 
+\[02/2026] CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation [\[paper\]](https://arxiv.org/pdf/2602.24286) | [\[code\]](https://github.com/BytedTsinghua-SIA/CUDA-Agent)
+ 
+\[03/2026] Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization [\[paper\]](https://arxiv.org/abs/2603.28342)
 
 # Agent4Kernel
 
@@ -104,13 +109,31 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[12/2025] cuPilot: A Strategy-Coordinated Multi-agent Framework for CUDA Kernel Evolution [\[paper\]](https://arxiv.org/pdf/2512.16465)
 
-## **External Memory Management**
+\[03/2026] AutoKernel: Autonomous GPU Kernel Optimization via Iterative Agent-Driven Search [\[paper\]](https://arxiv.org/pdf/2603.21331) | [\[code\]](https://github.com/RightNow-AI/autokernel)
+
+\[03/2026] KERNELFOUNDRY: HARDWARE-AWARE EVOLUTIONARY GPU KERNEL OPTIMIZATION [\[paper\]](https://arxiv.org/pdf/2603.12440)
+
+\[03/2026] AVO: Agentic Variation Operators for Autonomous Evolutionary Search [\[paper\]](https://arxiv.org/pdf/2603.24517)
+
+\[03/2026] AKO: Agentic Kernel Optimization (a harness for existing coding agents) [\[project\]](https://tongminglaic.github.io/AKO/) | [\[code\]](https://github.com/TongmingLAIC/AKO4ALL)
+
+\[04/2026] CuTeGen: An LLM-Based Agentic Framework for Generation and Optimization of High-Performance GPU Kernels using CuTe [\[paper\]](https://arxiv.org/abs/2604.01489)
+
+
+## **External Memory / Experience / Skill Management**
 
 \[02/2025] The AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition [\[link\]](https://medium.com/@nimritakoul01/the-ai-cuda-engineer-99616536cd50)
 
 \[12/2025] KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta [\[paper\]](https://arxiv.org/abs/2512.23236) 
 
 \[10/2025] From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph [\[paper\] ](https://arxiv.org/pdf/2510.19873)
+
+\[02/2026] KERNELBLASTER: CONTINUAL CROSS-TASK CUDA OPTIMIZATION VIA MEMORY-AUGMENTED IN-CONTEXT REINFORCEMENT [\[paper\]](https://arxiv.org/pdf/2602.14293)
+
+\[03/2026] Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis [\[paper\]](https://arxiv.org/abs/2603.10846) | [\[project\]](https://evokernel.zhuo.li/)
+
+\[03/2026] KernelSkill: A Multi-Agent Framework for GPU Kernel Optimization [\[paper\]](https://arxiv.org/html/2603.10085v1) | [\[code\]](https://github.com/0satan0/KernelMem/)
+
 
 ## **Hardware Profiling Integration**
 \[03/2025] **IntelliKit**: LLM-ready profiling and analysis toolkit for AMD GPUs [\[code\]](https://github.com/AMDResearch/intellikit)
@@ -251,6 +274,10 @@ High-quality data in this domain is defined not merely by volume, but by its abi
 
 \[09/2018] **Nsight Compute** — GPU Kernel Profiling Guide [\[docs\]](https://docs.nvidia.com/nsight-compute/)
 
+\[07/2024] **CUDA Course** [\[docs\]](https://github.com/Infatoshi/cuda-course)
+
+\[actively maintained] **HGPU** - High performance computing on graphics processing units [\[link\]](https://hgpu.org/)
+
 
 
 # Benchmarks
@@ -274,7 +301,26 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[10/2025] From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph [\[paper\]](https://arxiv.org/abs/2510.19873)
 
-\[01/2026] FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems [\[paper\]](https://arxiv.org/abs/2601.00227)
+\[01/2026] FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems [\[paper\]](https://arxiv.org/abs/2601.00227) | [\[blog\]](https://flashinfer.ai/2025/10/21/flashinfer-bench.html) | [\[Competition\]](https://mlsys26.flashinfer.ai/)
+
+\[02/2026] ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads? [\[paper\]](https://arxiv.org/pdf/2602.19594) | [\[code\]](https://github.com/Lossfunk/ISO-Bench) | [\[project\]](https://ayushnangia.github.io/iso-bench-website/)
+
+\[03/2026] ComputeEval [\[code\]](https://github.com/NVIDIA/compute-eval)
+
+\[03/2026] KernelArena [\[code\]](https://github.com/wafer-ai/kernel-arena) | [\[project\]](https://www.kernelarena.ai/)
+
+\[03/2026] KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware [\[paper\]](https://arxiv.org/abs/2603.08721)
+
+\[03/2026] ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads? [\[paper\]](https://arxiv.org/abs/2603.19173) | [\[project\]](https://research.nvidia.com/benchmarks/sol-execbench)
+
+\[03/2026] CelloAI Benchmarks: Toward Repeatable Evaluation of AI Assistants? [\[paper\]](https://arxiv.org/pdf/2603.01051)
+
+\[03/2026] Making LLMs Optimize Multi-Scenario CUDA Kernels Like Experts [\[paper\]](https://arxiv.org/abs/2603.07169)
+
+\[03/2026] KernelBench-v3 [\[code\]](https://github.com/Infatoshi/KernelBench-v3)
+
+
+
 
 ***
 
