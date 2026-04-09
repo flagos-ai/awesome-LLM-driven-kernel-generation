@@ -311,7 +311,7 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[03/2026] KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware [\[paper\]](https://arxiv.org/abs/2603.08721)
 
-\[03/2026] ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads? [\[paper\]](https://arxiv.org/abs/2603.19173) | [\[project\]](https://research.nvidia.com/benchmarks/sol-execbench)
+\[03/2026] SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits [\[paper\]](https://arxiv.org/abs/2603.19173) | [\[project\]](https://research.nvidia.com/benchmarks/sol-execbench)
 
 \[03/2026] CelloAI Benchmarks: Toward Repeatable Evaluation of AI Assistants? [\[paper\]](https://arxiv.org/pdf/2603.01051)
 
