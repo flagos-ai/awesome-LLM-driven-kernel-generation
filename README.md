@@ -37,7 +37,7 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 
 \[06/2025] KernelLLM: Making Kernel Development More Accessible [\[link\]](https://huggingface.co/facebook/KernelLLM)
 
-\[03/2026] ConCuR: Conciseness Makes State-of-the-Art Kernel Generation [\[paper\]](https://arxiv.org/pdf/2603.16790) | [\[code\]](https://github.com/CSJianYang/Industrial-Coder) 
+\[03/2026] InCoder-32B: Code Foundation Model for Industrial Scenarios [\[paper\]](https://arxiv.org/pdf/2603.16790) | [\[code\]](https://github.com/CSJianYang/Industrial-Coder) 
 
 ## RL
 
