@@ -144,6 +144,8 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[04/2026] ARGUS: Agentic GPU Optimization Guided by Data-Flow Invariants [\[paper\]](https://arxiv.org/pdf/2604.18616)
 
+\[05/2026] Kernel Design Agents [\[code\]](https://github.com/mit-han-lab/kernel-design-agents)
+
 
 ## **Hardware Profiling Integration**
 
