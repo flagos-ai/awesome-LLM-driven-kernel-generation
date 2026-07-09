@@ -41,6 +41,8 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 
 \[04/2026] InCoder-32B-Thinking: Industrial Code World Model for Thinking [\[paper\]](https://arxiv.org/pdf/2604.03144) | [\[code\]](https://github.com/CSJianYang/Industrial-Coder)
 
+\[06/2026] From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation [\[paper\]](https://arxiv.org/abs/2606.16231)
+
 ## RL
 
 \[07/2025] AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs [\[paper\]](https://arxiv.org/abs/2507.05687)
@@ -66,6 +68,8 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 \[02/2026] CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation [\[paper\]](https://arxiv.org/pdf/2602.24286) | [\[code\]](https://github.com/BytedTsinghua-SIA/CUDA-Agent)
  
 \[03/2026] Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization [\[paper\]](https://arxiv.org/abs/2603.28342)
+
+\[06/2026] MusaCoder: Native GPU Kernel Generation with Full-Stack Training on Moore Threads GPU [\[paper\]](https://arxiv.org/abs/2606.04847)
 
 # Agent4Kernel
 
@@ -125,7 +129,11 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[04/2026] FACT: Compositional Kernel Synthesis with a Three-Stage Agentic Workflow [\[paper\]](https://arxiv.org/pdf/2604.26666)
 
-\[05/2026] CuBridge: An LLM-Based Framework for Understanding and Reconstructing High-Performance Attention Kernels [\[paper\]](https://arxiv.org/pdf/2605.05023)  
+\[05/2026] CuBridge: An LLM-Based Framework for Understanding and Reconstructing High-Performance Attention Kernels [\[paper\]](https://arxiv.org/pdf/2605.05023)
+
+\[05/2026] Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation [\[paper\]](https://arxiv.org/abs/2605.26720)
+
+\[07/2026] NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation [\[paper\]](https://arxiv.org/abs/2607.04395)
 
 
 ## **External Memory / Experience / Skill Management**
@@ -145,6 +153,8 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 \[04/2026] ARGUS: Agentic GPU Optimization Guided by Data-Flow Invariants [\[paper\]](https://arxiv.org/pdf/2604.18616)
 
 \[05/2026] Kernel Design Agents [\[code\]](https://github.com/mit-han-lab/kernel-design-agents)
+
+\[06/2026] daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization [\[paper\]](https://arxiv.org/abs/2606.16497)
 
 
 ## **Hardware Profiling Integration**
@@ -173,7 +183,9 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[04/2026] cuda-kernel-optimizer [\[code\]](https://github.com/KernelFlow-ops/cuda-optimized-skill)
 
-\[05/2026] KEET: Explaining Performance of GPU Kernels Using LLM Agents [\[paper\]](https://arxiv.org/pdf/2605.04467) 
+\[05/2026] KEET: Explaining Performance of GPU Kernels Using LLM Agents [\[paper\]](https://arxiv.org/pdf/2605.04467)
+
+\[06/2026] Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization [\[paper\]](https://arxiv.org/abs/2606.26453)
 
 
 ## **Multi-Agent Orchestration**
@@ -194,7 +206,9 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[01/2026] A Two-Stage GPU Kernel Tuner Combining Semantic Refactoring and Search-Based Optimization [\[paper\]](https://arxiv.org/pdf/2601.12698)
 
-\[04/2026] Optimas: An Intelligent Analytics-Informed Generative AI Framework for Performance Optimization [\[paper\]](https://arxiv.org/pdf/2604.23892) 
+\[04/2026] Optimas: An Intelligent Analytics-Informed Generative AI Framework for Performance Optimization [\[paper\]](https://arxiv.org/pdf/2604.23892)
+
+\[06/2026] EGG: An Expert-Guided Agent Framework for Kernel Generation [\[paper\]](https://arxiv.org/abs/2606.26758)
 
 
 # Datasets
