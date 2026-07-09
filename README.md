@@ -45,21 +45,21 @@ Applying LLMs to kernel synthesis presents universal challenges in correctness a
 
 ## RL
 
-\[07/2025] AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs [\[paper\]](https://arxiv.org/abs/2507.05687)
+\[07/2025] AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs [\[paper\]](https://arxiv.org/abs/2507.05687) | [\[code\]](https://github.com/AI9Stars/AutoTriton) ![GitHub stars](https://img.shields.io/github/stars/AI9Stars/AutoTriton?style=social&cacheSeconds=86400)
 
 \[07/2025] CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning [\[paper\]](https://arxiv.org/abs/2507.14111) | [\[code\]](https://github.com/deepreinforce-ai/CUDA-L1) ![GitHub stars](https://img.shields.io/github/stars/deepreinforce-ai/CUDA-L1?style=social&cacheSeconds=86400)
 
 \[07/2025] Kevin: Multi-Turn RL for Generating CUDA Kernels [\[paper\]](https://arxiv.org/abs/2507.11948)
 
-\[09/2025] Mastering Sparse CUDA Generation through Pretrained Models and Deep Reinforcement Learning [\[paper\]](https://openreview.net/forum?id=VdLEaGPYWT)
+\[09/2025] Mastering Sparse CUDA Generation through Pretrained Models and Deep Reinforcement Learning [\[paper\]](https://openreview.net/forum?id=VdLEaGPYWT) | [\[code\]](https://github.com/Wangyaoyuu/SparseRL) ![GitHub stars](https://img.shields.io/github/stars/Wangyaoyuu/SparseRL?style=social&cacheSeconds=86400)
 
 \[10/2025] TritonRL: Training LLMs to Think and Code Triton Without Cheating [\[paper\]](https://arxiv.org/abs/2510.17891)
 
-\[11/2025] QiMeng-Kernel: Macro-Thinking Micro-Coding Paradigm for LLM-Based High-Performance GPU Kernel Generation [\[paper\]](https://arxiv.org/abs/2511.20100)
+\[11/2025] QiMeng-Kernel: Macro-Thinking Micro-Coding Paradigm for LLM-Based High-Performance GPU Kernel Generation [\[paper\]](https://arxiv.org/abs/2511.20100) | [\[code\]](https://github.com/QiMeng-IPRC/QiMeng-Kernel) ![GitHub stars](https://img.shields.io/github/stars/QiMeng-IPRC/QiMeng-Kernel?style=social&cacheSeconds=86400)
 
-\[12/2025] CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning [\[paper\]](https://arxiv.org/abs/2512.02551)
+\[12/2025] CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning [\[paper\]](https://arxiv.org/abs/2512.02551) | [\[code\]](https://github.com/deepreinforce-ai/CUDA-L2) ![GitHub stars](https://img.shields.io/github/stars/deepreinforce-ai/CUDA-L2?style=social&cacheSeconds=86400)
 
-\[01/2026] AscendKernelGen: A Systematic Study of LLM-Based Kernel Generation for Neural Processing Units [\[paper\]](https://arxiv.org/abs/2601.07160)
+\[01/2026] AscendKernelGen: A Systematic Study of LLM-Based Kernel Generation for Neural Processing Units [\[paper\]](https://arxiv.org/abs/2601.07160) | [\[code\]](https://github.com/weich97/NPUKernelBench) ![GitHub stars](https://img.shields.io/github/stars/weich97/NPUKernelBench?style=social&cacheSeconds=86400)
 
 \[02/2026] Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations [\[paper\]](https://arxiv.org/pdf/2602.05885) | [\[code\]](https://github.com/hkust-nlp/KernelGYM) ![GitHub stars](https://img.shields.io/github/stars/hkust-nlp/KernelGYM?style=social&cacheSeconds=86400) 
 
@@ -89,13 +89,13 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[09/2025] Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization [\[paper\]](https://arxiv.org/abs/2509.14279) | [\[code\]](https://github.com/SakanaAI/robust-kbench) ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/robust-kbench?style=social&cacheSeconds=86400)
 
-\[10/2025] The FM Agent [\[paper\]](https://arxiv.org/abs/2510.26144)
+\[10/2025] The FM Agent [\[paper\]](https://arxiv.org/abs/2510.26144) | [\[code\]](https://github.com/baidubce/FM-Agent) ![GitHub stars](https://img.shields.io/github/stars/baidubce/FM-Agent?style=social&cacheSeconds=86400)
 
 \[10/2025] EvoEngineer: Mastering Automated CUDA Kernel Code Evolution with Large Language Models [\[paper\]](https://arxiv.org/abs/2510.03760)
 
 \[10/2025] KernelGen [\[link\]](https://kernelgen.flagos.io/login)\[12/2025] 
 
-\[11/2025] AUTOCOMP: A POWERFUL AND PORTABLE CODE OPTIMIZER FOR TENSOR ACCELERATORS [\[paper\]](https://arxiv.org/pdf/2505.18574)
+\[11/2025] AUTOCOMP: A POWERFUL AND PORTABLE CODE OPTIMIZER FOR TENSOR ACCELERATORS [\[paper\]](https://arxiv.org/pdf/2505.18574) | [\[code\]](https://github.com/ucb-bar/autocomp) ![GitHub stars](https://img.shields.io/github/stars/ucb-bar/autocomp?style=social&cacheSeconds=86400)
 
 \[11/2025] AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization [\[paper\]](https://arxiv.org/pdf/2511.15915) | [\[code\]](https://github.com/zhang677/AccelOpt) ![GitHub stars](https://img.shields.io/github/stars/zhang677/AccelOpt?style=social&cacheSeconds=86400)
 
@@ -144,7 +144,7 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[12/2025] KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta [\[paper\]](https://arxiv.org/abs/2512.23236) 
 
-\[02/2026] KERNELBLASTER: CONTINUAL CROSS-TASK CUDA OPTIMIZATION VIA MEMORY-AUGMENTED IN-CONTEXT REINFORCEMENT [\[paper\]](https://arxiv.org/pdf/2602.14293)
+\[02/2026] KERNELBLASTER: CONTINUAL CROSS-TASK CUDA OPTIMIZATION VIA MEMORY-AUGMENTED IN-CONTEXT REINFORCEMENT [\[paper\]](https://arxiv.org/pdf/2602.14293) | [\[code\]](https://github.com/NVlabs/KernelBlaster) ![GitHub stars](https://img.shields.io/github/stars/NVlabs/KernelBlaster?style=social&cacheSeconds=86400)
 
 \[03/2026] Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis [\[paper\]](https://arxiv.org/abs/2603.10846) | [\[project\]](https://evokernel.zhuo.li/)
 
@@ -194,7 +194,7 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[07/2025] Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks [\[blog\]](https://rocm.blogs.amd.com/software-tools-optimization/triton-kernel-ai/README.html) | \[[paper\] ](https://arxiv.org/pdf/2507.23194)| [\[code\]](https://github.com/AMD-AGI/GEAK-agent) ![GitHub stars](https://img.shields.io/github/stars/AMD-AGI/GEAK-agent?style=social&cacheSeconds=86400) 
 
-\[09/2025] Astra: A Multi-Agent System for GPU Kernel Performance Optimization [\[paper\]](https://arxiv.org/abs/2509.07506)
+\[09/2025] Astra: A Multi-Agent System for GPU Kernel Performance Optimization [\[paper\]](https://arxiv.org/abs/2509.07506) | [\[code\]](https://github.com/Anjiang-Wei/Astra) ![GitHub stars](https://img.shields.io/github/stars/Anjiang-Wei/Astra?style=social&cacheSeconds=86400)
 
 \[10/2025] STARK: Strategic Team of Agents for Refining Kernels [\[paper\]](https://arxiv.org/pdf/2510.16996)
 
@@ -343,7 +343,7 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[10/2025] From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph [\[paper\]](https://arxiv.org/abs/2510.19873)
 
-\[01/2026] FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems [\[paper\]](https://arxiv.org/abs/2601.00227) | [\[blog\]](https://flashinfer.ai/2025/10/21/flashinfer-bench.html) | [\[Competition\]](https://mlsys26.flashinfer.ai/)
+\[01/2026] FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems [\[paper\]](https://arxiv.org/abs/2601.00227) | [\[blog\]](https://flashinfer.ai/2025/10/21/flashinfer-bench.html) | [\[Competition\]](https://mlsys26.flashinfer.ai/) | [\[code\]](https://github.com/flashinfer-ai/flashinfer-bench) ![GitHub stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer-bench?style=social&cacheSeconds=86400)
 
 \[02/2026] ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads? [\[paper\]](https://arxiv.org/pdf/2602.19594) | [\[code\]](https://github.com/Lossfunk/ISO-Bench) ![GitHub stars](https://img.shields.io/github/stars/Lossfunk/ISO-Bench?style=social&cacheSeconds=86400) | [\[project\]](https://ayushnangia.github.io/iso-bench-website/)
 
