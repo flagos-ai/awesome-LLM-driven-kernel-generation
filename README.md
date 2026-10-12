@@ -16,6 +16,7 @@ The integration of Large Language Models (LLMs) and agentic systems marks a pivo
 
 - [LLM4Kernel](#LLM4Kernel)
 - [Agent4Kernel](#Agent4Kernel)
+- [Evaluation](#Evaluation)
 - [Datasets](#Datasets)
 - [Benchmarks](#Benchmarks)
 
@@ -210,6 +211,10 @@ While foundational LLMs are often limited to static, one-pass inference, agentic
 
 \[06/2026] EGG: An Expert-Guided Agent Framework for Kernel Generation [\[paper\]](https://arxiv.org/abs/2606.26758)
 
+# Evaluation
+Evaluating how LLMs optimize high-performance kernels is a complex task that requires a multi-faceted approach in both analysis and design. This section surveys the landscape of evaluation methodologies, providing a structured guidance for researchers and practitioners in the field for robust AI-driven system design.
+
+\[05/2026] Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation [\[paper\]](https://arxiv.org/abs/2605.26720) | [\[code\]](https://github.com/yuxuan-z19/cudanalyst)
 
 # Datasets
 High-quality data in this domain is defined not merely by volume, but by its ability to bridge the semantic gap between high-level algorithms and low-level hardware optimizations. In this section, we survey the data landscape and organize resources. The dates listed in the table correspond to the initial release of each github repository. It is important to note that these libraries are under active development, with continuous updates and optimizations following their inception.
