@@ -288,6 +288,8 @@ High-quality data in this domain is defined not merely by volume, but by its abi
 
 \[12/2025] **cuTile** — NVIDIA DSL for Tile-centric Programming [\[docs\]](https://docs.nvidia.com/cuda/cutile-python/)
 
+\[07/2026] **Faber** — Statically typed language designed for coding agents to write; `kernel` declarations run on CPU threads, Metal or CUDA from one source, checked against a sequential reference [\[docs\]](https://faberlang.dev/en-US/targets/gpu.html) | [\[code\]](https://github.com/faberlang/faber) ![GitHub stars](https://img.shields.io/github/stars/faberlang/faber?style=social&cacheSeconds=86400)
+
 ## Knowledge Bases
 
 ### **Documentation & Guides**
